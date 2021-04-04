@@ -2,8 +2,8 @@
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/36112125/113521681-14eb4600-9569-11eb-9436-58c40825cad0.png" alt="Your image title" width="300"/>
-  <img src="https://user-images.githubusercontent.com/36112125/113521683-17e63680-9569-11eb-9afa-3083d6fe26a2.png" alt="Your image title" width="300"/>
-  <img src="https://user-images.githubusercontent.com/36112125/113521684-1b79bd80-9569-11eb-81b7-6acd9adf7852.png" alt="Your image title" width="300"/>
+  <img src="https://user-images.githubusercontent.com/36112125/113521683-17e63680-9569-11eb-9afa-3083d6fe26a2.png" alt="Your image title" width="270"/>
+  <img src="https://user-images.githubusercontent.com/36112125/113521684-1b79bd80-9569-11eb-81b7-6acd9adf7852.png" alt="Your image title" width="240"/>
  </p>
 
 :mechanical_arm: This code is used to control a prosthetic hand that performs grasping and pinching movements. A PID motor control algorithm was implemented in C to actuate the hand with 93% accuracy.
