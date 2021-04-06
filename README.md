@@ -33,4 +33,5 @@ This top-down structure allows control functions to be easily readable, since it
 
 
 **Check out a video of how it works [here](https://www.youtube.com/watch?v=mdVFzBSiMns)**
+
 Team members: Kevin Lin, Maahir Gupta, Jupi, Cathy Qiu
